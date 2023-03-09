@@ -1,11 +1,11 @@
 # TUGAS MANDIRI
 
-Nama      : Rani Nabilla Putri
+Nama        : Rani Nabilla Putri
 
-NIM       : 21343034
+NIM         : 21343034
 
-Matkul    : Perancangan dan Analisis Algoritma
+Mata Kuliah : Perancangan dan Analisis Algoritma
 
-Kelompok  : G
+Kelompok    : G
 
-Algoritma : Sorting by Counting
+Algoritma   : Sorting by Counting
